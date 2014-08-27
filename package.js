@@ -9,7 +9,7 @@ Package.onUse(function(api){
   api.versionsFrom('0.9.0');
   api.use([
     'ui',
-    'iron:router'
+    'iron:router@0.9.0'
   ], 'client');
 
   api.addFiles([
