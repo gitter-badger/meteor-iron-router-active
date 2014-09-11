@@ -6,10 +6,10 @@ Package.describe({
 });
 
 Package.onUse(function(api){
-  api.versionsFrom('0.9.1-rc3');
+  api.versionsFrom('0.9.1.1');
   api.use([
-    'ui',
-    'iron:router@0.9.2-rc2'
+    'blaze',
+    'iron:router@0.9.3'
   ], 'client');
 
   api.addFiles([
