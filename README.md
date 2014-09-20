@@ -1,5 +1,6 @@
 iron-router-active
 ==================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/zimme/meteor-iron-router-active?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Quick UI helper to determine if the current route is active, for nav links.
 
